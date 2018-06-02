@@ -1,0 +1,22 @@
+T:\MySequantialFile\MySequantialFile\bin\Debug\MySequantialFile.exe.config
+T:\MySequantialFile\MySequantialFile\bin\Debug\MySequantialFile.exe
+T:\MySequantialFile\MySequantialFile\bin\Debug\MySequantialFile.pdb
+T:\MySequantialFile\MySequantialFile\bin\Debug\MySequantialFile.xml
+T:\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.vbprojResolveAssemblyReference.cache
+T:\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.frmSeq.resources
+T:\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.Resources.resources
+T:\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.vbproj.GenerateResource.Cache
+T:\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.exe
+T:\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.xml
+T:\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.pdb
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\bin\Debug\MySequantialFile.exe.config
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.exe
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.xml
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.pdb
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\bin\Debug\MySequantialFile.exe
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\bin\Debug\MySequantialFile.pdb
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\bin\Debug\MySequantialFile.xml
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.vbprojResolveAssemblyReference.cache
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.frmSeq.resources
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.Resources.resources
+E:\ACADEMIC FILES\BSC IT\2ND SEMESTER\IFM1B\IFM PREP\MySequantialFile\MySequantialFile\obj\Debug\MySequantialFile.vbproj.GenerateResource.Cache
