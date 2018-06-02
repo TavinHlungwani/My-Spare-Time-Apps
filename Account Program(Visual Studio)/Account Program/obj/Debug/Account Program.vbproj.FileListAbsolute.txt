@@ -1,0 +1,11 @@
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\bin\Debug\Account Program.exe.config
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\bin\Debug\Account Program.exe
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\bin\Debug\Account Program.pdb
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\bin\Debug\Account Program.xml
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\obj\Debug\Account Program.vbprojResolveAssemblyReference.cache
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\obj\Debug\Account_Program.Form1.resources
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\obj\Debug\Account_Program.Resources.resources
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\obj\Debug\Account Program.vbproj.GenerateResource.Cache
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\obj\Debug\Account Program.exe
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\obj\Debug\Account Program.xml
+D:\ACADEMIC FILES\BSC IT\2nd Semester\IFM1B\TRAINING\Account Program\Account Program\obj\Debug\Account Program.pdb
